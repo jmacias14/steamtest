@@ -1,0 +1,15 @@
+{
+    "438640": {
+        "success": true,
+        "data": {
+            "price_overview": {
+                "currency": "ARS",
+                "initial": 139900,
+                "final": 34975,
+                "discount_percent": 75,
+                "initial_formatted": "ARS$ 1.399,00",
+                "final_formatted": "ARS$ 349,75"
+            }
+        }
+    }
+}
